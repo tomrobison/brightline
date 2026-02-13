@@ -10,6 +10,7 @@ When the user wants to work with resumes, use these skills:
 - **`analyze-job`**: Analyze job description and extract keywords
 - **`tailor-resume`**: Generate tailored DOCX resume for specific job
 - **`compare-versions`**: Compare multiple resume versions side-by-side
+- **`explore-candidate`**: Audit resume freshness and identify stale content
 
 ## Workflow
 
