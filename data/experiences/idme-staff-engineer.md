@@ -20,8 +20,8 @@ Transitioned to individual contributor role as "Engineer Emeritus" at ID.me, man
 
 ## Achievements
 
-### 1. IRS Identity Verification Launch [priority:1, keywords:IRS,identity verification,government,scaling,launch]
-Contributed to successful launch of IRS identity verification platform, a career-defining milestone that enabled millions of Americans to securely verify their identity for government services, marking the culmination of years of technical and leadership work.
+### 1. IRS Identity Verification Infrastructure [priority:1, keywords:IRS,identity verification,government,AWS,production infrastructure,scaling,operations]
+Operated production AWS infrastructure for IRS identity verification platform, a career-defining milestone that enabled millions of Americans to securely verify their identity for government services at scale.
 
 ### 2. Gateway Mobile-Native Service [priority:2, keywords:Gateway,mobile-native,Walmart,SDK,vendor redundancy,data normalization,Fortune 10]
 Owned and evolved Gateway as a mobile-native service for Fortune Top 10 company (Walmart), providing vendor redundancy and data normalization through backend SDK integration.
