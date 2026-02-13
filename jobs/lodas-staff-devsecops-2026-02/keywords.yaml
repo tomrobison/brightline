@@ -1,0 +1,87 @@
+job_title: '"Staff DevSecOps Engineer"'
+company: ''
+analyzed_date: '2026-02-13'
+keywords:
+  technical_skills:
+  - keyword: aws
+    priority: required
+  soft_skills: []
+match_analysis:
+  overall_score: 74.0
+  required_score: 80.0
+  preferred_score: 60.0
+  required_matched:
+  - security
+  - across
+  - aws
+  - experience
+  - reliability
+  - platform
+  - engineering
+  - technical
+  - including
+  - such
+  - engineer
+  - infrastructure
+  required_missing:
+  - teams
+  - standards
+  - lodas
+  preferred_matched:
+  - design
+  - using
+  - compliance
+  - role
+  - devops
+  - own
+  preferred_missing:
+  - environments
+  - staff
+  - devsecops
+  - strong
+  total_required: 15
+  total_preferred: 10
+  experience_matches:
+  - slug: _TEMPLATE
+    company: Company Name
+    score: 40.0
+    matched_keywords:
+    - across
+    - aws
+    - experience
+    - platform
+    - technical
+  - slug: cerner-software-engineer
+    company: Cerner
+    score: 31.0
+    matched_keywords:
+    - security
+    - across
+    - platform
+    - engineering
+    - engineer
+  - slug: idme-director-devops
+    company: ID.me
+    score: 29.3
+    matched_keywords:
+    - security
+    - across
+    - aws
+    - reliability
+    - infrastructure
+  - slug: idme-director-compliance
+    company: ID.me
+    score: 24.7
+    matched_keywords:
+    - security
+    - across
+    - technical
+    - such
+  - slug: criticmania-systems-integrator
+    company: CriticMania
+    score: 24.7
+    matched_keywords:
+    - across
+    - experience
+    - platform
+    - including

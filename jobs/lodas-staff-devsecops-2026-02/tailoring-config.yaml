@@ -1,0 +1,124 @@
+job:
+  company: "LODAS"
+  position: "Staff DevSecOps Engineer"
+  application_date: "2026-02-13"
+
+resume:
+  version: "security-lead"
+  length: "2-page"
+  summary: |
+    DevSecOps leader with 10+ years architecting secure, compliant AWS infrastructure
+    at scale. Expert in security automation, compliance frameworks (SOC 2, NIST, HIPAA),
+    and infrastructure as code. Proven track record leading multi-account AWS environments
+    serving millions of users, managing successful security audits (IRS, FedRAMP), and
+    embedding security throughout CI/CD pipelines while maintaining 99.99% uptime.
+
+keywords:
+  required:
+    # Core DevSecOps
+    - "AWS"
+    - "Terraform"
+    - "infrastructure as code"
+    - "CI/CD"
+    - "GitHub Actions"
+    - "security"
+    - "compliance"
+    # AWS Services (from job description)
+    - "Aurora"
+    - "ECS Fargate"
+    - "Lambda"
+    - "SQS"
+    - "serverless"
+    # Security & Compliance
+    - "IAM"
+    - "KMS"
+    - "Secrets Manager"
+    - "Vanta"
+    - "SOC 2"
+    - "SAST"
+    - "DAST"
+    - "vulnerability"
+    # SRE & Observability
+    - "observability"
+    - "monitoring"
+    - "CloudWatch"
+    - "incident response"
+    - "reliability"
+    - "SRE"
+    # Leadership
+    - "mentorship"
+    - "technical leadership"
+    - "architecture"
+
+  preferred:
+    - "multi-account"
+    - "PostgreSQL"
+    - "threat modeling"
+    - "encryption"
+    - "cost optimization"
+    - "Python"
+    - "automation"
+    - "NIST"
+    - "postmortem"
+
+  industry_terms:
+    - "shift-left security"
+    - "security by design"
+    - "infrastructure as code"
+    - "site reliability engineering"
+
+selection:
+  experiences:
+    # Lead with Security role - most relevant for DevSecOps
+    - slug: "idme-director-security"
+      version: "detailed"
+      customize:
+        emphasis: ["security", "IRS", "compliance", "Splunk", "Nessus", "Palo Alto", "AWS", "incident response"]
+
+    # DevOps for AWS, CI/CD, infrastructure
+    - slug: "idme-director-devops"
+      version: "detailed"
+      customize:
+        emphasis: ["AWS", "infrastructure", "CI/CD", "Jenkins", "Chef", "PostgreSQL", "automation", "CloudWatch"]
+
+    # Compliance for SOC 2, audits, frameworks
+    - slug: "idme-director-compliance"
+      version: "detailed"
+      customize:
+        emphasis: ["NIST", "FedRAMP", "SOC 2", "HIPAA", "Vanta", "vulnerability management", "security assessments"]
+
+    # IT for multi-account strategy, infrastructure leadership
+    - slug: "idme-director-it"
+      version: "concise"
+      customize:
+        emphasis: ["infrastructure", "IAM", "vendor management"]
+
+  projects: []
+
+  skills:
+    priority_categories:
+      - "Security & Compliance"
+      - "Cloud Platforms"
+      - "DevOps & Automation"
+      - "Infrastructure Services"
+      - "Databases"
+
+    highlight_keywords:
+      - "AWS"
+      - "Terraform"
+      - "SOC 2"
+      - "NIST"
+      - "FedRAMP"
+      - "IAM"
+      - "CI/CD"
+      - "PostgreSQL"
+
+optimization:
+  target_match_score: 85
+  max_pages: 2
+  bullet_point_strategy: "keyword-dense"
+
+  constraints:
+    max_bullets_per_experience: 5
+    max_experiences: 4
+    max_projects: 0
