@@ -24,7 +24,7 @@ Transitioned to individual contributor role as "Engineer Emeritus" at ID.me, man
 Operated production AWS infrastructure for IRS identity verification platform, a career-defining milestone that enabled millions of Americans to securely verify their identity for government services at scale.
 
 ### 2. Gateway Mobile-Native Service [priority:2, keywords:Gateway,mobile-native,Walmart,SDK,vendor redundancy,data normalization,Fortune 10]
-Owned and evolved Gateway as a mobile-native service for Fortune Top 10 company (Walmart), providing vendor redundancy and data normalization through backend SDK integration.
+Owned and evolved Gateway as a mobile-native service for Fortune Top 10 company, providing vendor redundancy and data normalization through backend SDK integration.
 
 ### 3. OpenID Shared Signals Framework on GCP [priority:3, keywords:GCP,Dataflow,workload identities,OpenID,Shared Signals,SSF,security,cloud-native,MVP]
 Designed and implemented MVP using Google Cloud Dataflow with workload identities to support OpenID Shared Signals Framework (SSF), enabling secure cross-organizational security event sharing without service account key management.
