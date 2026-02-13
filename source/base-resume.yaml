@@ -1,0 +1,83 @@
+basics:
+  name: "Thomas (Tom) James Robison"
+  label: "Director of DevOps & Infrastructure"
+  email: "Thomas.Robison@gmail.com"
+  phone: "(785) 304-0918"
+  location:
+    address: "2812 West 90th Street"
+    city: "Leawood"
+    region: "KS"
+    postalCode: "66206"
+    countryCode: "US"
+
+work:
+  - slug: "idme-director-devops"
+    company: "ID.me"
+    position: "Director of DevOps"
+  - slug: "idme-director-it"
+    company: "ID.me"
+    position: "Director of Information Technology"
+  - slug: "idme-director-security"
+    company: "ID.me"
+    position: "Director of Security"
+  - slug: "idme-director-compliance"
+    company: "ID.me"
+    position: "Director of Compliance"
+  - slug: "cerner-software-engineer"
+    company: "Cerner"
+    position: "External Software Engineer"
+  - slug: "criticmania-systems-integrator"
+    company: "CriticMania"
+    position: "Systems Integrator"
+  - slug: "ukoot-developer"
+    company: "ukoot"
+    position: "Developer"
+
+skills:
+  - category: "Cloud Platforms"
+    keywords: ["AWS", "EC2", "RDS", "S3", "IAM", "ELB", "CloudWatch", "CloudFormation", "Lambda"]
+    priority: 1
+  - category: "DevOps & Automation"
+    keywords: ["Chef", "Jenkins", "Capistrano", "CI/CD", "Git", "Vagrant", "Docker"]
+    priority: 2
+  - category: "Security & Compliance"
+    keywords: ["NIST 800-63", "NIST 800-53", "FedRAMP", "ISO", "SOC", "HIPAA", "Splunk", "Nessus", "Palo Alto", "OSSEC"]
+    priority: 3
+  - category: "Programming Languages"
+    keywords: ["Ruby", "Python", "JavaScript"]
+    priority: 4
+  - category: "Databases"
+    keywords: ["PostgreSQL", "MySQL", "MongoDB"]
+    priority: 5
+  - category: "Web Frameworks"
+    keywords: ["Ruby on Rails", "RESTful APIs", "SOA"]
+    priority: 6
+  - category: "Infrastructure Services"
+    keywords: ["OpenLDAP", "Bind", "Rsyslog", "DNS", "IAM"]
+    priority: 7
+
+education:
+  - institution: "Kansas State University"
+    area: "Biological and Agricultural Engineering"
+    studyType: "Bachelor of Science"
+    startDate: "2005-08-01"
+    endDate: "2009-12-31"
+    location: "Manhattan, KS"
+    notes: "Study Abroad at Charles University, Prague, Czech Republic, Summer 2003"
+
+projects:
+  - name: "Habitat"
+    role: "Core Contributor"
+    description: "Open source application automation and deployment platform"
+  - name: "DevOpsDaysDC"
+    role: "Organizer"
+    description: "Annual DevOps conference in Washington DC"
+
+metadata:
+  default_length: "2-page"
+  highlight_skills: ["AWS", "DevOps", "Security", "Compliance"]
+  versions:
+    - "devops-director"
+    - "security-lead"
+    - "tech-lead"
+    - "senior-engineer"
