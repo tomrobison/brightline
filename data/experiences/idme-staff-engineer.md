@@ -5,12 +5,12 @@ location: "Remote"
 startDate: "2021-12-01"
 endDate: "present"  # Update if role has ended
 
-keywords: ["AWS", "SQS", "event-driven architecture", "Gateway", "SDK", "Walmart", "encryption", "infrastructure", "microservices", "Python", "technical leadership"]
+keywords: ["AWS", "GCP", "SQS", "Dataflow", "workload identities", "OpenID", "Shared Signals Framework", "SSF", "event-driven architecture", "Gateway", "SDK", "Walmart", "encryption", "infrastructure", "microservices", "Python", "technical leadership"]
 relevant_for: ["senior-engineer", "staff-engineer", "backend-developer", "infrastructure-engineer"]
 priority: 2
 
 versions:
-  detailed: 4
+  detailed: 5
   standard: 3
   concise: 2
 ---
@@ -26,10 +26,13 @@ Contributed to successful launch of IRS identity verification platform, a career
 ### 2. Gateway Events Platform [priority:2, keywords:SQS,AWS,events,Gateway,event-driven architecture,Walmart,SDK]
 Owned and evolved Gateway, an SQS-based internal events emitter and firehose, transforming it into a backend SDK for Walmart integration and enabling reliable event-driven architecture across the platform.
 
-### 3. Critical Infrastructure Management [priority:3, keywords:encryption,infrastructure,security,availability]
+### 3. OpenID Shared Signals Framework on GCP [priority:3, keywords:GCP,Dataflow,workload identities,OpenID,Shared Signals,SSF,security,cloud-native,MVP]
+Designed and implemented MVP using Google Cloud Dataflow with workload identities to support OpenID Shared Signals Framework (SSF), enabling secure cross-organizational security event sharing without service account key management.
+
+### 4. Critical Infrastructure Management [priority:4, keywords:encryption,infrastructure,security,availability]
 Managed mission-critical infrastructure applications including encryption services and events platform, ensuring high availability and security for core identity verification operations.
 
-### 4. Strategic Gap-Filler Role [priority:4, keywords:technical leadership,mentoring,architecture]
+### 5. Strategic Gap-Filler Role [priority:5, keywords:technical leadership,mentoring,architecture]
 Created unique "Engineer Emeritus" role focused on non-critical path projects and filling organizational gaps, enabling engineering teams to focus on core roadmap while ensuring no critical work fell through the cracks.
 
 ## Notes
